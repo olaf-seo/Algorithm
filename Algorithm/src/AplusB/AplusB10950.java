@@ -10,7 +10,7 @@ public class AplusB10950 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st; 
 		int i=Integer.parseInt(br.readLine());
-		
+		 
 		while(i-->0) {
 			st= new StringTokenizer(br.readLine());
 			int A=Integer.parseInt(st.nextToken());
